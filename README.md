@@ -6,7 +6,8 @@ The purpose of this project is to act as a data driven leader of a company in th
   * Total Number of Rides Per City
   * Total Number of Drivers Per City
   * City Type (Urban, Suburban, Rural)
-![](images/
+
+![](images/fares_per_ride.png)
   
 
 
