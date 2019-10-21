@@ -14,6 +14,8 @@ The purpose of this project is to act as a data driven leader of a company in th
  * % of Total Fares by City Type
  * % of Total Rides by City Type
  * % of Total Drivers by City Type
+ 
+![](images/fares_city_type.png)
   
 
 
