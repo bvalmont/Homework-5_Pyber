@@ -19,29 +19,11 @@ The purpose of this project is to act as a data driven leader of a company in th
 
 ![](images/rides_city_type.png)
   
+![](images/total_drivers_by_city_type.png)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-The csv files were were left in the folder as a reference guide
-The 4 png files were generated and saved
-the main homework file is called pyber_valmonthw5_.ipynb
-The other .ipynp file is the starter and is left in as a reference
-The conclusion document is a word docuent titled Valmont_PyberExercise
+## Instructions and Explanations
+ * The csv files were were left in the folder as a reference guide
+ * The 4 image.png files were generated and saved nto the images folder
+ * The main file is named pyber_valmont_.ipynb
+ * The conclusion document is a word docuent titled Valmont_PyberExercise
